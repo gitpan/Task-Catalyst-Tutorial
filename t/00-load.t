@@ -1,9 +1,10 @@
 #!perl
 
-use Test::More tests => 17;
+use Test::More tests => 18;
 
 BEGIN { use_ok( 'Task::Catalyst::Tutorial' ) }
 BEGIN { use_ok( 'Catalyst::Runtime' ) }
+BEGIN { use_ok( 'Catalyst::Devel' ) }
 BEGIN { use_ok( 'Catalyst::Plugin::Authentication' ) }
 BEGIN { use_ok( 'Catalyst::Plugin::Authentication::Store::DBIC' ) }
 BEGIN { use_ok( 'Catalyst::Plugin::Authorization::ACL' ) }

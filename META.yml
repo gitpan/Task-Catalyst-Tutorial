@@ -11,6 +11,7 @@ no_index:
     - inc
     - t
 requires: 
+  Catalyst::Devel: 1.0
   Catalyst::Model::DBIC::Schema: 0
   Catalyst::Plugin::Authentication: 0.09
   Catalyst::Plugin::Authentication::Store::DBIC: 0.07
@@ -28,4 +29,4 @@ requires:
   DBIx::Class: 0
   DBIx::Class::Schema: 0
   Test::More: 0
-version: 0.01
+version: 0.02

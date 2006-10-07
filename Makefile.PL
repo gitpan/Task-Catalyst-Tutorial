@@ -9,6 +9,7 @@ version_from('lib/Task/Catalyst/Tutorial.pm');
 license('perl');
 requires( 
 	 'Catalyst::Runtime' => '5.7000',
+	 'Catalyst::Devel'   => '1.0',
 	 'Catalyst::Plugin::Authentication' => 0.09,
 	 'Catalyst::Plugin::Authentication::Store::DBIC' => 0.07,
 	 'Catalyst::Plugin::Authorization::ACL' => 0.08,

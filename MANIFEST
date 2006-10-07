@@ -86,8 +86,8 @@ lib/Catalyst/Manual/Tutorial/Intro.pod
 lib/Catalyst/Manual/Tutorial/Testing.pod
 lib/Task/Catalyst/Tutorial.pm
 Makefile.PL
-MANIFEST
-META.yml			# Will be created by "make dist"
+MANIFEST			This list of files
+META.yml
 README
 t/00-load.t
 t/boilerplate.t
