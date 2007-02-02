@@ -25,6 +25,7 @@ requires(
 	 'DBIx::Class::Schema' => 0,
 	 'Catalyst::View::TT' => 0,
 	 'Catalyst::Model::DBIC::Schema' => 0,
+	 'Catalyst::Manual' => 0,
 	);
 build_requres('Test::More' => 0);
 no_index(directory => 'examples');

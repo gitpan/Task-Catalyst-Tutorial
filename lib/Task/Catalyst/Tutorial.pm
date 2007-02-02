@@ -9,17 +9,16 @@ Task::Catalyst::Tutorial - Installs everything you need to learn Catalyst
 
 =head1 VERSION
 
-Version 0.02
+Version 0.03
 
 =cut
 
-our $VERSION = '0.02';
+our $VERSION = '0.03';
 
 =head1 SYNOPSIS
 
-Installs the L<Catalyst::Manual::Tutorial|Catalyst::Manual::Tutorial>
-PODs, the example "MyApp", and all dependencies.
-
+Installs the example "MyApp" described in
+L<Catalyst::Manual::Tutorial>, and all its dependencies.
 
 =head1 AUTHOR
 
