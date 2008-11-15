@@ -13,7 +13,7 @@ Version 0.03
 
 =cut
 
-our $VERSION = '0.03';
+our $VERSION = '0.04';
 
 =head1 SYNOPSIS
 
@@ -25,10 +25,6 @@ L<Catalyst::Manual::Tutorial>, and all its dependencies.
 The Catalyst Team 
 
 L<http://www.catalystframework.org>.
-
-=head1 MAINTAINER
-
-Jonathan Rockway C<< <jrockway@cpan.org> >>
 
 =head1 BUGS
 
