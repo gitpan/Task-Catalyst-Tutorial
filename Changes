@@ -1,5 +1,8 @@
 Revision history for Task-Catalyst-Tutorial
 
+0.05    20 January 2009
+    0.04 was missing half of Module::Install; correct this
+
 0.04    16 November 2008
     Update VERSION dependencies.
 

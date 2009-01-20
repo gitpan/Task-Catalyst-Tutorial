@@ -9,11 +9,11 @@ Task::Catalyst::Tutorial - Installs everything you need to learn Catalyst
 
 =head1 VERSION
 
-Version 0.03
+Version 0.05
 
 =cut
 
-our $VERSION = '0.04';
+our $VERSION = '0.05';
 
 =head1 SYNOPSIS
 
